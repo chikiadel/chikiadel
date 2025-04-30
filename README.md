@@ -1,6 +1,8 @@
 # Hi there, I'm Adel FOUDAD 👋
-
-Welcome to my GitHub profile! Here's a little about me:
+iOS Engineer | Swift, SwiftUI, UIKit | Building clean, scalable, and modular iOS apps.
+Contributor to large-scale apps, creator of reusable libraries, and advocate for engineering best practices.
+Focused on clean architecture, mentorship, and process automation.
+Always pushing code with purpose and precision.
 
 ## 🌟 About Me
 - 🔭 I’m currently working on a modular super app.
