@@ -12,7 +12,7 @@ Always pushing code with purpose and precision.
 - 💬 Ask me about Swift/SwiftUI/UIKit/SPM/Tuist
 
 ## 📈 GitHub Stats
-![chikiadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikiadel&show_icons=true&theme=radical)
+![chikiadel's GitHub stats](https://github-readme-stats.vercel.app/api?username=chikiadel&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## 🔗 Let's Connect
 - [LinkedIn](www.linkedin.com/in/adel-foudad-73126513a)
